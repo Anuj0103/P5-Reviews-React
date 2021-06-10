@@ -14,7 +14,7 @@
 </p>
 
 - After Clicking the
-  _Random_ button 
+  _Surprise Me_ button 
 
 <p align="center">
   <img src="src\images\img3.png" width="350" title="Review">
